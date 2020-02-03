@@ -1,1 +1,1 @@
-var recipes = {cake = 'eggs',  
+var recipes = {cake: 'eggs',  
